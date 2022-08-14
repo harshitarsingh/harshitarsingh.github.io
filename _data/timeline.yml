@@ -1,0 +1,59 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: TCS
+  title-url: https://www.tcs.com/
+  date: April 2021 - Present
+  subtitle: Assistant System Engineer
+  tags:
+    - tag: Java
+    - tag: Spring Boot
+    - tag: Oracle HCM
+  timeline-side: right
+  
+- title: Centre for Railway Information System (CRIS)
+  title-url: https://www.cris.org.in/
+  date: Jul 2019 - Nov 2019
+  subtitle: Web Developer Intern
+  tags:
+    - tag: Java
+    - tag: Html
+    - tag: Css
+    - tag: Bootstrap
+  timeline-side: left
+
+- title: Banasthali Vidyapith
+  title-url: http://www.banasthali.org/
+  date: Jul 2016 - Jun 2020
+  subtitle: B.Tech in Computer Science Engineering
+  tags:
+    - tag: "CGPA: 8.14"
+    - tag: "Stream: CSE"
+  timeline-side: right
+
+- title: Little Flower School
+#   title-url: https://example.com/
+  date: 2014 - 2016
+  subtitle: Intermediate
+  tags:
+    - tag: "Percentage: 90.20%"
+    - tag: "Physics"
+    - tag: "Chemistry"
+    - tag: "Maths"
+  timeline-side: left
