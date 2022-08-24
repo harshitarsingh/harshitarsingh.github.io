@@ -13,32 +13,35 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Task Scheduler
-  descr: "A REST API based application similar to JIRA software"
-  demo: https://github.com/IshanRTripathi/TaskScheduler
+- name: Maximoff
+  descr: "A Spring Boot based Java application with the basic functionalities of an e-commerce system"
+  demo: https://github.com/harshitarsingh/Maximoff
   tags:
-    - tag: Nodejs
-    - tag: MongoDB
-    - tag: Postman
-    - tag: REST API
+    - tag: Spring Boot
+    - tag: PostgreSQL
+    - tag: Thymeleaf
     
-- name: JCPSK Calculator
-  descr: "An app which simplified the repetitive, hectic and error-prone calculations targeted for cement sheet businesses with almost 500 downloads."
-  demo: https://play.google.com/store/apps/details?id=com.ishanrtripathi.jcpskcalculator
+- name: GetSetResume
+  descr: "A resume builder application developed using Java + Spring Boot + Thymeleaf"
+  demo: https://github.com/harshitarsingh/GetSetResume
   tags:
-    - tag: Android
+    - tag: Spring Boot
     - tag: Java
-    - tag: XML
-    - tag: SQL
+    - tag: Thymeleaf
+    - tag: H2 database
 
-- name: myPresense
-  descr: "Android app based on Google Nearby API and Amazon Rekognition API. Handled image capturing for face detection using Amazon Rekognition and CameraKit API."
-  demo: https://github.com/nSpider/NearbyConnectionMeshNetwork
+- name: CoronaVirusTracker
+  descr: "A web application which displays the number of covid 19 cases around the world, updated in real-time"
+  demo: https://github.com/harshitarsingh/CoronaVirusTracker
   tags:
     - tag: Java
-    - tag: Trees and Graphs
-    - tag: Android
+    - tag: Spring
+    - tag: Html
 
 - name: ImagAlgo
   descr: "A web application to help visualize sorting algorthms"
   demo: https://github.com/harshita1328/ImagAlgo
+  tags:
+    - tag: JSP
+    - tag: MySQL
+    - tag: HTML/CSS/Bootstrap
