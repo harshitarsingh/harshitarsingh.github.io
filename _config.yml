@@ -35,7 +35,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: 1.5+ years of experience as an Associate System Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Data Structures, Core Java, Spring, Database Management System (DBMS), and Team Management. My career goal is to be a part of a market-leading company where I can contribute to the company's growth while being able to explore my capabilities and learn new skills.
+about_me_description: 3.5+ years of experience as a Software Engineer with a demonstrated history of working in the IT industry. Skilled in Data Structures, Core Java, Spring, Database Management System (DBMS), and Team Management. My career goal is to be a part of a market-leading company where I can contribute to the company's growth while being able to explore my capabilities and learn new skills.
 
 # SKILLS SECTION
 # show_skills_card:
